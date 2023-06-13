@@ -43,6 +43,10 @@ For using the aforementioned virtual environment in a Jupyter Notebook, you need
 (venv) $ python -m ipykernel install --user --name=venv
 ```
 
+## Acknowledgements
+
+This work is supported by EPSRC DTP studentship (No. EP/R513106/1) and EU H2020 AI4Media (No. 951911).
+This research utilised Queen Mary's Apocrita HPC facility, supported by QMUL Research-IT. http://doi.org/10.5281/zenodo.438045
 
 ## Citation
 
