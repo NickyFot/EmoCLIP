@@ -1,0 +1,11 @@
+anger: "A facial expression showing irritation and unrest, with a wrinkled forehead, narrowed eyes, and tight lips or a frown"
+disgust: "An expression of repulsion and displeasure, with a raised upper lip, a scrunched nose, and a downturned mouth"
+fear: "An expression of tension and withdrawal, with wide-open eyes, raised eyebrows, and a slightly open mouth. The face may appear physically tense or frozen in fear"
+happiness: "An expression of contentment and pleasure, with a smile and the corners of the mouth turned up, often accompanied by crinkling around the eyes. The face may appear relaxed and at ease"
+neutral: "An expression of calm and neutrality, with a neutral mouth and no particular indication of emotion. The eyebrows are usually not raised or furrowed"
+sadness: 'An expression of sadness and sorrow, with a downturned mouth or frown, and sometimes tears or a tightness around the eyes. The face may appear physically withdrawn or resigned.'
+surprise: "An expression of shock and astonishment, with wide-open eyes and raised eyebrows, sometimes accompanied by a gasp or an open mouth"
+contempt: "An expression of disdain and superiority, with a slight smirk or sneer, often accompanied by a raised eyebrow or a lopsided smile"
+anxiety: "An expression of worry and apprehension, with furrowed eyebrows and a tight mouth. The eyes may appear wide and darting, and the face may appear physically tense or worried"
+helplessness: "An expression of defeat and resignation, with the eyes looking down and the mouth turned down. The eyebrows may be furrowed, and the face may appear resigned or resigned"
+disappointment: "An expression of frustration and disillusionment, with a slight frown or drooping of the mouth. The eyebrows may be lowered or furrowed, and the face may appear physically drawn or tired"
