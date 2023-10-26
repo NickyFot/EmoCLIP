@@ -4,7 +4,7 @@ Authors official PyTorch implementation of the **[EmoCLIP: A Vision-Language Met
 
 > **EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition**<br>
 > Niki Maria Foteinopoulou and Ioannis Patras<br>
-> ?? <br>
+> <br>
 > ![summary](figs/method_overview.svg)
 >
 > **Abstract**: Facial Expression Recognition (FER) is a crucial task in affective computing, but its conventional focus on the seven basic emotions limits its applicability to the complex and expanding emotional spectrum. To address the issue of new and unseen emotions present in dynamic in-the-wild FER, we propose a novel vision-language model that utilises sample-level text descriptions (i.e. captions of the context, expressions or emotional cues), as natural language supervision, aiming to enhance the learning of rich latent representations, for zero-shot classification. To test this, we evaluate using zero-shot classification of the model trained on sample-level descriptions, on four popular dynamic FER datasets. Our findings show that this approach yields significant improvements when compared to baseline methods. Specifically, for zero-shot video FER, we outperform CLIP by over 10\% in terms of Weighted Average Recall and 5\% in terms of Unweighted Average Recall on several datasets. Furthermore, we evaluate the representations obtained from the network trained using sample-level descriptions on the downstream task of mental health symptom estimation, achieving performance comparable or superior to state-of-the-art methods and strong agreement with human experts. Namely, we achieve a Pearson's Correlation Coefficient of up to 0.85, which is comparable to human experts' agreement.
