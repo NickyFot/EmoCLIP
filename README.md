@@ -1,3 +1,4 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/emoclip-a-vision-language-method-for-zero/zero-shot-facial-expression-recognition-on)](https://paperswithcode.com/sota/zero-shot-facial-expression-recognition-on?p=emoclip-a-vision-language-method-for-zero)
 # EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition
 
 Authors official PyTorch implementation of the **[EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition](https://arxiv.org/abs/2310.16640)**. If you use this code for your research, please [**cite**](#citation) our paper.
