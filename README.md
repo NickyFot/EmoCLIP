@@ -1,6 +1,6 @@
 # EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition
 
-Authors official PyTorch implementation of the **[EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition](??)**. If you use this code for your research, please [**cite**](#citation) our paper.
+Authors official PyTorch implementation of the **[EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition](https://arxiv.org/abs/2310.16640)**. If you use this code for your research, please [**cite**](#citation) our paper.
 
 > **EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition**<br>
 > Niki Maria Foteinopoulou and Ioannis Patras<br>
@@ -51,10 +51,12 @@ This research utilised Queen Mary's Apocrita HPC facility, supported by QMUL Res
 ## Citation
 
 ```bibtex
-@inproceedings{foteinopoulou2023emoclip,
-  title={EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition},
-  author={Foteinopoulou, Niki Maria and Patras, Ioannis},
-  year={2023}
+@misc{foteinopoulou_emoclip_2023,
+	title = {{EmoCLIP}: {A} {Vision}-{Language} {Method} for {Zero}-{Shot} {Video} {Facial} {Expression} {Recognition}},
+	doi = {10.48550/arXiv.2310.16640},
+	publisher = {arXiv},
+	author = {Foteinopoulou, Niki Maria and Patras, Ioannis},
+	year = {2023},
 }
 
 ```
