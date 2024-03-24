@@ -44,6 +44,9 @@ For using the aforementioned virtual environment in a Jupyter Notebook, you need
 (venv) $ python -m ipykernel install --user --name=venv
 ```
 
+## Downstream task weights:
+The weights used for the downstream task (without the FC layer) can be found [here](https://drive.google.com/file/d/1cPgE0FlBCw5cvXq4-YEM6tUhE1-j8MS3/view?usp=drive_link)
+
 ## Acknowledgements
 
 This work is supported by EPSRC DTP studentship (No. EP/R513106/1) and EU H2020 AI4Media (No. 951911).
