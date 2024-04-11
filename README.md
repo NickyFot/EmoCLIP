@@ -55,12 +55,11 @@ This research utilised Queen Mary's Apocrita HPC facility, supported by QMUL Res
 ## Citation
 
 ```bibtex
-@misc{foteinopoulou_emoclip_2023,
+@inproceedings{foteinopoulou_emoclip_2024,
 	title = {{EmoCLIP}: {A} {Vision}-{Language} {Method} for {Zero}-{Shot} {Video} {Facial} {Expression} {Recognition}},
-	doi = {10.48550/arXiv.2310.16640},
-	publisher = {arXiv},
 	author = {Foteinopoulou, Niki Maria and Patras, Ioannis},
-	year = {2023},
+	year = {2024},
+	booktitle = {The 18th IEEE International Conference on Automatic Face and Gesture Recognition}
 }
 
 ```
