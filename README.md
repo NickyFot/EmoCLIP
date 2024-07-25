@@ -59,7 +59,7 @@ This research utilised Queen Mary's Apocrita HPC facility, supported by QMUL Res
 	title = {{EmoCLIP}: {A} {Vision}-{Language} {Method} for {Zero}-{Shot} {Video} {Facial} {Expression} {Recognition}},
 	author = {Foteinopoulou, Niki Maria and Patras, Ioannis},
 	year = {2024},
-	booktitle = {The 18th IEEE International Conference on Automatic Face and Gesture Recognition}
+	booktitle={2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG)}
 }
 
 ```
